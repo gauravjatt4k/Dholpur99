@@ -1,4 +1,4 @@
-import "@fontsource/martel-sans"
+import "@fontsource/kalam"
 
 export async function load() {
 	const res = await fetch("https://devgauravjatt44.alwaysdata.net/api")

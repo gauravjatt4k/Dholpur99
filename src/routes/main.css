@@ -3,9 +3,8 @@
 @tailwind utilities;
 
 body {
-	font-family: "Martel Sans", sans-serif;
-	background-color: #2a2c2d;
-	@apply h-screen text-gray-300;
+	font-family: "Kalam", sans-serif;
+	@apply h-screen text-gray-300 bg-slate-700;
 }
 
 pre {

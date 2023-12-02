@@ -5,7 +5,7 @@ settings:
   excludeLinksFromLockfile: false
 
 dependencies:
-  '@fontsource/martel-sans':
+  '@fontsource/kalam':
     specifier: ^5.0.8
     version: 5.0.8
 
@@ -301,8 +301,8 @@ packages:
     engines: {node: '>=14'}
     dev: true
 
-  /@fontsource/martel-sans@5.0.8:
-    resolution: {integrity: sha512-sthczXw4LKSb9hPgEIdd01eB4IgDCu0hexCZSCy30fCJILYWnCx/Af0y+EQcimpa9Ujwd62aA+ZSCNFZ2dteEQ==}
+  /@fontsource/kalam@5.0.8:
+    resolution: {integrity: sha512-Iy4rj43aSm41LOlkCSsEvdKuJ3RWoiRX2bpDv/OZ2hivhFiaWQGMXYCglF2cgwnOu4JlugKxsEOK7InWOI5eMg==}
     dev: false
 
   /@humanwhocodes/config-array@0.11.13:
