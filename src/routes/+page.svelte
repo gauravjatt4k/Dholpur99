@@ -36,9 +36,10 @@
 <div class="flex flex-col items-center h-full">
 	<!-- start code for header section -->
 	<div
-		class="bg-blue-600 w-full text-center py-1 font-semibold text-white first-letter:text-2xl first-letter:text-yellow-300"
+		class="bg-blue-600 w-full text-center py-1 font-semibold text-white flex justify-center items-center"
 	>
-		<h2>Dholpur 99</h2>
+		<img class="w-auto h-7 pr-1" src="/favicon.png" alt="" />
+		<h2 class=" first-letter:text-2xl first-letter:text-yellow-300">Dholpur 99</h2>
 	</div>
 	<!-- start code for news section -->
 	<!-- This is an example component -->
